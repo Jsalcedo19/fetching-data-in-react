@@ -12,9 +12,7 @@ const show = async (city) => {
   }
   
   const forecast = async (city) => {
-    // Include forecast service
-    // Example url:
-    // http://api.weatherapi.com/v1/forecast.json?key=478ba1c2a1574805b3c194515241608&q=London&days=1&aqi=no&alerts=no
+    
   }
   
   export { show }
